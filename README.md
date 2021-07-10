@@ -1,4 +1,4 @@
-最近需要使用qtest编写一些测试,所以到https://doc.qt.io/qt-5/qtest-tutorial.html选了几段感兴趣的段落翻译转载了一下,希望对你也有点用处;
+最近需要使用qtest编写一些测试,所以到https://doc.qt.io/qt-5/qtest-tutorial.html
 
 第一章: 编写单元测试
 ===========
