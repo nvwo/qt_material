@@ -232,6 +232,9 @@ QTEST_MAIN(TestGui)
 
 <https://8bitscoding.github.io/qt/core/QtTest/>
 
-<https://github.com/nvwo/qtest_guides>
+<https://doc.qt.io/qtcreator/creator-autotest.html>
 
 <https://doc.qt.io/qt-5/qtest-tutorial.html>
+
+关于测试工程的项目结构:  
+<https://stackoverflow.com/questions/12154980/how-to-structure-project-while-unit-testing-qt-app-by-qtestlib>
